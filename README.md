@@ -1,6 +1,5 @@
 # Next-Js-Document-
-This is a Next.js-based web application designed to provide server-side rendering (SSR), static site generation (SSG), and API routes. This project aims to offer a fast, scalable, and SEO-friendly web app, demonstrating how to use Next.js with the latest React features.
-
+a comprehensive educational guide for creating and deploying a Next.js application. Covers key features like SSG, SSR, ISR, API routes, and dynamic routing. Perfect for beginners and developers learning Next.js.
 
 ### **Next.js Installation and Setup in Bengali**
 
